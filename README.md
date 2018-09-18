@@ -20,6 +20,6 @@ you can also create your own repo.
 
 * [goalkicker.com](https://goalkicker.com) - [on archive.org](https://web.archive.org/web/20180615000000*/https://goalkicker.com) 
 
-* Programming Notes for Professionals books 
+  * Programming Notes for Professionals books 
 
     * (note: based on stackoverflow questions and answers)
